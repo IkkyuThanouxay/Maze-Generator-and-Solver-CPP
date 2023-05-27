@@ -37,5 +37,6 @@ This program generates a maze using a depth-first search (DFS) algorithm and sol
 2. It generates a maze using the DFS algorithm and displays the initial maze grid.
 3. The maze is solved using the BFS algorithm, and the solved maze grid is displayed.
 4. You can continue generating and solving mazes by entering `0`, or you can exit the program by entering `1`.
+5. To run this code use "g++ -std=c++11 mymaze.cpp -o mymaze" then "./mymaze" in terminal.
 
 Feel free to modify and experiment with the code according to your needs.
